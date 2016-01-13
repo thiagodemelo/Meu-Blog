@@ -1,0 +1,133 @@
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\roslyn\csc.exe
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\roslyn\vbc.exe
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\roslyn\VBCSCompiler.exe
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\blog.dll.config
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\blog.dll
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\blog.pdb
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\PagedList.dll
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\PagedList.Mvc.dll
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\System.Web.Helpers.dll
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\System.Web.Mvc.dll
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\System.Web.Razor.dll
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\System.Web.Webpages.Deployment.dll
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\System.Web.Webpages.dll
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\System.Web.Webpages.Razor.dll
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\PagedList.xml
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\PagedList.Mvc.xml
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\System.Web.Razor.xml
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\System.Web.Webpages.xml
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\System.Web.Webpages.Deployment.xml
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\System.Web.Webpages.Razor.xml
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\System.Web.Helpers.xml
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\bin\System.Web.Mvc.xml
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\obj\Debug\blog.dll
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\obj\Debug\blog.pdb
+C:\Users\thiag\documents\visual studio 2015\Projects\blog\blog\obj\Debug\blog.csprojResolveAssemblyReference.cache
+C:\Users\thiag\Desktop\blog\blog\bin\roslyn\csc.exe
+C:\Users\thiag\Desktop\blog\blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thiag\Desktop\blog\blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thiag\Desktop\blog\blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thiag\Desktop\blog\blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thiag\Desktop\blog\blog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thiag\Desktop\blog\blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thiag\Desktop\blog\blog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thiag\Desktop\blog\blog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thiag\Desktop\blog\blog\bin\roslyn\vbc.exe
+C:\Users\thiag\Desktop\blog\blog\bin\roslyn\VBCSCompiler.exe
+C:\Users\thiag\Desktop\blog\blog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thiag\Desktop\blog\blog\bin\blog.dll.config
+C:\Users\thiag\Desktop\blog\blog\bin\blog.dll
+C:\Users\thiag\Desktop\blog\blog\bin\blog.pdb
+C:\Users\thiag\Desktop\blog\blog\bin\EntityFramework.dll
+C:\Users\thiag\Desktop\blog\blog\bin\log4net.dll
+C:\Users\thiag\Desktop\blog\blog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thiag\Desktop\blog\blog\bin\MySql.Data.dll
+C:\Users\thiag\Desktop\blog\blog\bin\Ninject.dll
+C:\Users\thiag\Desktop\blog\blog\bin\Ninject.Web.Common.dll
+C:\Users\thiag\Desktop\blog\blog\bin\Ninject.Web.Mvc.dll
+C:\Users\thiag\Desktop\blog\blog\bin\PagedList.dll
+C:\Users\thiag\Desktop\blog\blog\bin\PagedList.Mvc.dll
+C:\Users\thiag\Desktop\blog\blog\bin\System.Web.Helpers.dll
+C:\Users\thiag\Desktop\blog\blog\bin\System.Web.Mvc.dll
+C:\Users\thiag\Desktop\blog\blog\bin\System.Web.Razor.dll
+C:\Users\thiag\Desktop\blog\blog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\thiag\Desktop\blog\blog\bin\System.Web.WebPages.dll
+C:\Users\thiag\Desktop\blog\blog\bin\System.Web.WebPages.Razor.dll
+C:\Users\thiag\Desktop\blog\blog\bin\WebActivatorEx.dll
+C:\Users\thiag\Desktop\blog\blog\bin\EntityFramework.xml
+C:\Users\thiag\Desktop\blog\blog\bin\log4net.xml
+C:\Users\thiag\Desktop\blog\blog\bin\Ninject.xml
+C:\Users\thiag\Desktop\blog\blog\bin\Ninject.Web.Common.xml
+C:\Users\thiag\Desktop\blog\blog\bin\Ninject.Web.Mvc.xml
+C:\Users\thiag\Desktop\blog\blog\bin\PagedList.xml
+C:\Users\thiag\Desktop\blog\blog\bin\PagedList.Mvc.xml
+C:\Users\thiag\Desktop\blog\blog\bin\System.Web.Helpers.xml
+C:\Users\thiag\Desktop\blog\blog\bin\System.Web.Mvc.xml
+C:\Users\thiag\Desktop\blog\blog\bin\System.Web.Razor.xml
+C:\Users\thiag\Desktop\blog\blog\bin\System.Web.WebPages.xml
+C:\Users\thiag\Desktop\blog\blog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\thiag\Desktop\blog\blog\bin\System.Web.WebPages.Razor.xml
+C:\Users\thiag\Desktop\blog\blog\obj\Debug\blog.csprojResolveAssemblyReference.cache
+C:\Users\thiag\Desktop\blog\blog\obj\Debug\blog.dll
+C:\Users\thiag\Desktop\blog\blog\obj\Debug\blog.pdb
+C:\Users\thiag\Desktop\blog\blog\bin\MySql.Data.Entity.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\roslyn\csc.exe
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\roslyn\vbc.exe
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\roslyn\VBCSCompiler.exe
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\blog.dll.config
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\blog.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\blog.pdb
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\EntityFramework.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\log4net.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\MySql.Data.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\MySql.Data.Entity.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\Ninject.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\Ninject.Web.Common.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\Ninject.Web.Mvc.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\PagedList.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\PagedList.Mvc.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\System.Web.Helpers.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\System.Web.Mvc.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\System.Web.Razor.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\System.Web.WebPages.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\System.Web.WebPages.Razor.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\WebActivatorEx.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\EntityFramework.xml
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\log4net.xml
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\Ninject.xml
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\Ninject.Web.Common.xml
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\Ninject.Web.Mvc.xml
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\PagedList.xml
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\PagedList.Mvc.xml
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\System.Web.Helpers.xml
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\System.Web.Mvc.xml
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\System.Web.Razor.xml
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\System.Web.WebPages.xml
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\System.Web.WebPages.Razor.xml
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\obj\Debug\blog.csprojResolveAssemblyReference.cache
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\obj\Debug\blog.dll
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\obj\Debug\blog.pdb
