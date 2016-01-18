@@ -4,9 +4,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="content-language" content="pt-br">
+    <meta name="keywords" content="criação de sites, web designer, desenvolvedor, designer gráfico, programador, freelancer, desenvolvimento, criação, otimização, seo, atualização, manutenção, sites, websites, web sites, blogs, portais, layout, original, sistemas web, hospedagem, front-end, back-end, marcas, logotipos, logomarcas, banners animados, e-commerce, lojas virtuais,curriculo, desenvolvedor web, thiago de melo lima,thiago,desenvolvedor, criar site,desenvolve site, desenvolve sistema,programador .NET,programador ASP.NET, ASP.NET MVC,mvc,asp,asp.net,c#,windows form,web forms,xamarin">
     <meta name="description" content="Venha conhecer o estudante Dotnet aqui você conhece e estuda Artigos, Códigos, Novidades e Projetos do universo .NET">
     <meta name="author" content="Thiago de Melo Lima">
-    <title>Estudante DotNet Blog</title>
+    <meta name="reply-to" content="thiago@novatela.com.br">
+    <meta name="robots" content="index, follow"> 
+    <link rel="shortcut icon" href="~/Content/img/ico/favicon.png">
+    <title>Estudante Web Blog</title>
     <!-- Bootstrap Core CSS -->
     <link href="~/Content/css/bootstrap.css" rel="stylesheet">
     <!-- Custom CSS -->
@@ -23,14 +28,14 @@
     <![endif]-->
 </head>
 <body>
+    <!-- jQuery -->
+    <script src="~/Scripts/jquery.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <!-- Custom Theme JavaScript -->
+    <script src="~/Scripts/clean-blog.min.js"></script>
     @Html.Partial("_MenuSuperior")
         @RenderBody()
     @Html.Partial("_Rodape")
-    <!-- jQuery -->
-    <script src="Scripts/jquery.js"></script>
-    <!-- Bootstrap Core JavaScript -->
-    <script src="Scripts/bootstrap.min.js"></script>
-    <!-- Custom Theme JavaScript -->
-    <script src="Scripts/clean-blog.min.js"></script>
 </body>
 </html>

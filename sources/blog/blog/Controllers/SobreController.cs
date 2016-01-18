@@ -12,10 +12,10 @@ namespace blog.Controllers
 
         private SobreDAO dao;
 
-        public SobreController(SobreDAO dao)
-        {
-            this.dao = dao;
-        }
+        //public SobreController(SobreDAO dao)
+        //{
+        //    this.dao = dao;
+        //}
         // GET: Sobre
         public ActionResult Index()
         {

@@ -101,10 +101,6 @@ C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\blog.pdb
 C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\EntityFramework.dll
 C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\log4net.dll
 C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\MySql.Data.dll
-C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\MySql.Data.Entity.dll
-C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\Ninject.dll
-C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\Ninject.Web.Common.dll
 C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\Ninject.Web.Mvc.dll
 C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\PagedList.dll
 C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\PagedList.Mvc.dll
@@ -117,8 +113,6 @@ C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\System.Web.WebPag
 C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\WebActivatorEx.dll
 C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\EntityFramework.xml
 C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\log4net.xml
-C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\Ninject.xml
-C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\Ninject.Web.Common.xml
 C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\Ninject.Web.Mvc.xml
 C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\PagedList.xml
 C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\PagedList.Mvc.xml
@@ -128,6 +122,6 @@ C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\System.Web.Razor.
 C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\System.Web.WebPages.xml
 C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\System.Web.WebPages.Deployment.xml
 C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\System.Web.WebPages.Razor.xml
-C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\obj\Debug\blog.csprojResolveAssemblyReference.cache
 C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\obj\Debug\blog.dll
 C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\obj\Debug\blog.pdb
+C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\obj\Debug\blog.csprojResolveAssemblyReference.cache
