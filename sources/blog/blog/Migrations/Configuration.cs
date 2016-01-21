@@ -5,15 +5,18 @@
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<blog.DAO.EntidadesContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<blog.EntidadesContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
+           // AutomaticMigrationDataLossAllowed = true;
+            // SetSqlGenerator("MySql.Data.MySqlClient", new MySql.Data.Entity.MySqlMigrationSqlGenerator());
         }
 
-        protected override void Seed(blog.DAO.EntidadesContext context)
+        protected override void Seed(blog.EntidadesContext context)
         {
+            
             //  This method will be called after migrating to the latest version.
 
             //  You can use the DbSet<T>.AddOrUpdate() helper extension method 

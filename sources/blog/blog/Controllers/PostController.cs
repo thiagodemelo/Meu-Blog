@@ -11,10 +11,10 @@ namespace blog.Controllers
     {
         private PostDAO dao;
 
-        //public PostController(PostDAO dao)
-        //{
-        //    this.dao = dao;
-        //}
+        public PostController(PostDAO dao)
+        {
+            this.dao = dao;
+        }
 
 
         // GET: Post

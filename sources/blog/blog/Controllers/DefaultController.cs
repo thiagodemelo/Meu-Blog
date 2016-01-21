@@ -11,6 +11,7 @@ namespace blog.Controllers
         // GET: Default
         public ActionResult Index()
         {
+
             return View();
         }
     }

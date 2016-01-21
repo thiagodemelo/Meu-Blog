@@ -13,10 +13,10 @@ namespace blog.Controllers
 
         private ContatoDAO dao;
 
-        //public ContatoController(ContatoDAO dao)
-        //{
-        //    this.dao = dao;
-        //}
+        public ContatoController(ContatoDAO dao)
+        {
+            this.dao = dao;
+        }
         public ActionResult Index()
         {
             return View();

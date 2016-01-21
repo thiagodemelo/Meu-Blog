@@ -1,5 +1,4 @@
 ﻿using blog.Entidades;
-using blog.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,9 +12,9 @@ namespace blog.DAO
     {
         private EntidadesContext contexto;
 
-        public UsuariosDAO()
+        public UsuariosDAO(EntidadesContext contexto)
         {
-            this.contexto = new EntidadesContext();
+            this.contexto = contexto;
         }
 
         public void Adiciona(Usuario usuario)
