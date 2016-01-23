@@ -1,0 +1,7 @@
+CREATE TABLE `thiagodesenv`.`Sobres` (
+  `id` INT NOT NULL,
+  `titulo` VARCHAR(100) NULL,
+  `subTitulo` VARCHAR(45) NULL,
+  `caminhoImg` VARCHAR(45) NULL,
+  `texto` VARCHAR(45) NULL,
+  PRIMARY KEY (`id`));

@@ -1,5 +1,4 @@
 ﻿using blog.DAO;
-using LojaWebEF.Migrations;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;

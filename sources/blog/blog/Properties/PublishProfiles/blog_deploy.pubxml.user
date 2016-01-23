@@ -10,22 +10,55 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="App_Data/blog.mdf">
-      <publishTime>01/12/2016 21:46:46</publishTime>
+      <publishTime>01/21/2016 10:48:58</publishTime>
     </File>
     <File Include="App_Data/blog_log.ldf">
-      <publishTime>01/12/2016 21:46:46</publishTime>
+      <publishTime>01/21/2016 10:48:58</publishTime>
     </File>
     <File Include="bin/blog.dll">
-      <publishTime>01/18/2016 16:27:55</publishTime>
+      <publishTime>01/23/2016 15:34:41</publishTime>
     </File>
     <File Include="bin/blog.pdb">
-      <publishTime>01/18/2016 16:27:55</publishTime>
+      <publishTime>01/23/2016 15:34:41</publishTime>
     </File>
     <File Include="bin/EntityFramework.dll">
-      <publishTime>01/12/2016 22:42:04</publishTime>
+      <publishTime>01/23/2016 14:07:33</publishTime>
+    </File>
+    <File Include="bin/EnvDTE.dll">
+      <publishTime>10/22/2009 19:51:18</publishTime>
     </File>
     <File Include="bin/log4net.dll">
       <publishTime>02/12/2015 23:29:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.MSXML.dll">
+      <publishTime>10/22/2009 19:51:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.OLE.Interop.dll">
+      <publishTime>01/21/2016 13:21:31</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.ProjectAggregator.dll">
+      <publishTime>11/19/2015 21:31:16</publishTime>
+    </File>
+    <File Include="bin/microsoft.visualstudio.shell.10.0.dll">
+      <publishTime>01/21/2016 14:14:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.Shell.Interop.8.0.dll">
+      <publishTime>09/20/2015 15:22:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.Shell.Interop.9.0.dll">
+      <publishTime>09/20/2015 15:22:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.Shell.Interop.dll">
+      <publishTime>09/20/2015 15:22:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.TextManager.Interop.8.0.dll">
+      <publishTime>09/20/2015 15:22:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.TextManager.Interop.dll">
+      <publishTime>01/21/2016 13:21:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.VSHelp.dll">
+      <publishTime>03/18/2010 22:21:56</publishTime>
     </File>
     <File Include="bin/Microsoft.Web.Infrastructure.dll">
       <publishTime>08/10/2015 12:56:44</publishTime>
@@ -34,16 +67,25 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/18/2016 12:08:04</publishTime>
     </File>
     <File Include="bin/MySql.Data.Entity.dll">
-      <publishTime>01/12/2016 22:42:09</publishTime>
+      <publishTime>01/21/2016 11:29:03</publishTime>
     </File>
     <File Include="bin/Ninject.dll">
-      <publishTime>01/18/2016 11:48:02</publishTime>
+      <publishTime>01/23/2016 12:26:56</publishTime>
+    </File>
+    <File Include="bin/Ninject.pdb">
+      <publishTime>01/23/2016 12:26:56</publishTime>
     </File>
     <File Include="bin/Ninject.Web.Common.dll">
-      <publishTime>01/18/2016 11:49:09</publishTime>
+      <publishTime>01/21/2016 00:00:54</publishTime>
+    </File>
+    <File Include="bin/Ninject.Web.Common.pdb">
+      <publishTime>01/21/2016 00:00:54</publishTime>
     </File>
     <File Include="bin/Ninject.Web.Mvc.dll">
-      <publishTime>01/12/2016 21:59:47</publishTime>
+      <publishTime>01/21/2016 00:00:55</publishTime>
+    </File>
+    <File Include="bin/Ninject.Web.Mvc.pdb">
+      <publishTime>01/21/2016 00:00:55</publishTime>
     </File>
     <File Include="bin/PagedList.dll">
       <publishTime>08/10/2015 12:58:47</publishTime>
@@ -87,6 +129,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="bin/roslyn/VBCSCompiler.exe.config">
       <publishTime>08/10/2015 12:56:45</publishTime>
     </File>
+    <File Include="bin/stdole.dll">
+      <publishTime>03/18/2010 22:21:56</publishTime>
+    </File>
     <File Include="bin/System.Web.Helpers.dll">
       <publishTime>01/12/2016 21:52:39</publishTime>
     </File>
@@ -104,6 +149,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="bin/System.Web.WebPages.Razor.dll">
       <publishTime>01/12/2016 21:52:39</publishTime>
+    </File>
+    <File Include="bin/WebActivator.dll">
+      <publishTime>01/21/2016 00:00:54</publishTime>
     </File>
     <File Include="bin/WebActivatorEx.dll">
       <publishTime>02/12/2015 23:26:41</publishTime>
@@ -125,6 +173,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="Content/Site.css">
       <publishTime>08/10/2015 13:41:01</publishTime>
+    </File>
+    <File Include="EntityFramework.SqlMigrations.ReadMe.txt">
+      <publishTime>01/21/2016 14:04:06</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.eot">
       <publishTime>08/10/2015 17:22:07</publishTime>
@@ -160,7 +211,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/10/2015 16:44:32</publishTime>
     </File>
     <File Include="packages.config">
-      <publishTime>01/18/2016 12:10:05</publishTime>
+      <publishTime>01/23/2016 14:59:08</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>08/10/2015 17:26:45</publishTime>
@@ -190,7 +241,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/18/2016 13:43:30</publishTime>
     </File>
     <File Include="Views/Post/Index.cshtml">
-      <publishTime>01/18/2016 14:01:56</publishTime>
+      <publishTime>01/20/2016 23:41:47</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
       <publishTime>01/18/2016 15:25:23</publishTime>
@@ -202,7 +253,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/18/2016 13:06:33</publishTime>
     </File>
     <File Include="Views/Sobre/Index.cshtml">
-      <publishTime>01/18/2016 15:17:12</publishTime>
+      <publishTime>01/23/2016 15:34:34</publishTime>
     </File>
     <File Include="Views/web.config">
       <publishTime>01/18/2016 15:28:15</publishTime>
@@ -211,7 +262,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/10/2015 13:40:56</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>01/18/2016 16:27:56</publishTime>
+      <publishTime>01/23/2016 15:34:42</publishTime>
     </File>
   </ItemGroup>
 </Project>

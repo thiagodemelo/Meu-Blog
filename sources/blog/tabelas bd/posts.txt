@@ -1,0 +1,7 @@
+CREATE TABLE `thiagodesenv`.`Posts` (
+  `id` INT NOT NULL,
+  `titulo` VARCHAR(100) NOT NULL,
+  `subtitulo` VARCHAR(45) NULL,
+  `autor` VARCHAR(45) NULL,
+  `data` DATETIME NULL,
+  PRIMARY KEY (`id`, `titulo`));

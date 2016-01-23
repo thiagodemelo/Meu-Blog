@@ -10,41 +10,41 @@ namespace blog.DAO
 {
     public class UsuariosDAO
     {
-        private EntidadesContext contexto;
+        //private EntidadesContext contexto;
 
-        public UsuariosDAO(EntidadesContext contexto)
-        {
-            this.contexto = contexto;
-        }
+        //public UsuariosDAO(EntidadesContext contexto)
+        //{
+        //    this.contexto = contexto;
+        //}
 
-        public void Adiciona(Usuario usuario)
-        {
-            contexto.usuario.Add(usuario);
-        }
+        //public void Adiciona(Usuario usuario)
+        //{
+        //    contexto.usuario.Add(usuario);
+        //}
 
-        public void Remove(Usuario usuario)
-        {
-            contexto.usuario.Remove(usuario);
-        }
+        //public void Remove(Usuario usuario)
+        //{
+        //    contexto.usuario.Remove(usuario);
+        //}
 
-        public void Atualiza(Usuario usuario)
-        {
-            contexto.Entry(usuario).State = EntityState.Modified;
-        }
+        //public void Atualiza(Usuario usuario)
+        //{
+        //    contexto.Entry(usuario).State = EntityState.Modified;
+        //}
 
-        public Usuario BuscaPorId(int id)
-        {
-            return contexto.usuario.Find(id);
-        }
+        //public Usuario BuscaPorId(int id)
+        //{
+        //    return contexto.usuario.Find(id);
+        //}
 
-        public IEnumerable<Usuario> Lista()
-        {
-            List<Usuario> lista = new List<Usuario>();
-            foreach (var usuario in contexto.usuario)
-               lista.Add(usuario);
+        //public IEnumerable<Usuario> Lista()
+        //{
+        //    List<Usuario> lista = new List<Usuario>();
+        //    foreach (var usuario in contexto.usuario)
+        //       lista.Add(usuario);
 
-            return lista;
+        //    return lista;
             
-        }
+        //}
     }
 }

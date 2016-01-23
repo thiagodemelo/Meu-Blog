@@ -13,15 +13,16 @@ namespace blog.Controllers
 
         private SobreDAO dao;
 
-        public SobreController(SobreDAO dao)
+        public SobreController()
         {
-            this.dao = dao;
+            this.dao = new SobreDAO();
         }
         // GET: Sobre
         public ActionResult Index()
         {
-            Sobre s = new Sobre() { id = 1, titulo = "teste", subTitulo = "123", texto = "ronaldo", caminhoImg = "aa" };
-            dao.Adiciona(s);
+            //Sobre s = new Sobre() { id = 1, titulo = "teste", subTitulo = "123", texto = "ronaldo", caminhoImg = "aa" };
+            //dao.Adiciona(s);
+            ViewBag.sobre = dao.BuscaPorId(1);
             return View();
         }
     }

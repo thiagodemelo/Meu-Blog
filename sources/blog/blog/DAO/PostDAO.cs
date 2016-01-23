@@ -9,41 +9,41 @@ namespace blog.DAO
 {
     public class PostDAO
     {
-        private EntidadesContext contexto;
-        public PostDAO(EntidadesContext contexto)
+      
+        public PostDAO()
         {
-            this.contexto = contexto;
+           
         }
 
-        public void Adiciona(Post Post)
-        {
-            contexto.post.Add(Post);
-        }
+        //public void Adiciona(Post Post)
+        //{
+        //    contexto.post.Add(Post);
+        //}
 
-        public void Remove(Post Post)
-        {
-            contexto.post.Remove(Post);
-        }
+        //public void Remove(Post Post)
+        //{
+        //    contexto.post.Remove(Post);
+        //}
 
-        public void Atualiza(Post Post)
-        {
-            contexto.Entry(Post).State = EntityState.Modified;
-        }
+        //public void Atualiza(Post Post)
+        //{
+        //    contexto.Entry(Post).State = EntityState.Modified;
+        //}
 
-        public Post BuscaPorId(int id)
-        {
-            return contexto.post.Find(id);
-        }
+        //public Post BuscaPorId(int id)
+        //{
+        //    return;
+        //}
 
-        public IEnumerable<Post> Lista()
-        {
-            List<Post> lista = new List<Post>();
-            foreach (var Post in contexto.post)
-                lista.Add(Post);
+        //public IEnumerable<Post> Lista()
+        //{
+        //    List<Post> lista = new List<Post>();
+        //    foreach (var Post in contexto.post)
+        //        lista.Add(Post);
 
-            return lista;
+        //    return lista;
 
-        }
+        //}
 
 
     }

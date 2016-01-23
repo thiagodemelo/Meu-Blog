@@ -7,10 +7,10 @@ namespace blog.DAO
 {
     public class ContatoDAO
     {
-        private EntidadesContext contexto;
-        public ContatoDAO(EntidadesContext contexto)
+       
+        public ContatoDAO()
         {
-            this.contexto = contexto;
+            
         }
     }
 }
