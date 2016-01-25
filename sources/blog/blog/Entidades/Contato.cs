@@ -14,6 +14,8 @@ namespace blog.Entidades
         public String email { get; set; }
         public String telefone { get; set; }
         public String mensagem { get; set; }
-        public int newllester { get; set; }
+        public int newsletter { get; set; }
+
+        
     }
 }

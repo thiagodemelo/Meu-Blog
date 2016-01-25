@@ -171,7 +171,7 @@
     <Compile Include="DAO\PostDAO.cs" />
     <Compile Include="DAO\SobreDAO.cs" />
     <Compile Include="DAO\UsuarioDAO.cs" />
-    <Compile Include="DAO\EMAIL.cs" />
+    <Compile Include="DAO\MAIL.cs" />
     <Compile Include="Entidades\Usuario.cs" />
     <Compile Include="Filters\SaveChangesFilter.cs" />
     <Compile Include="Global.asax.cs">

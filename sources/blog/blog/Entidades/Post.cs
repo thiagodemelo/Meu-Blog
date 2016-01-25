@@ -14,5 +14,5 @@ namespace blog.Entidades
         public String subtitulo { set; get; }
         public String autor { set; get; }
         public DateTime data  { set; get; }
-}
+    }
 }

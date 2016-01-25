@@ -10,12 +10,12 @@
     <meta name="author" content="Thiago de Melo Lima">
     <meta name="reply-to" content="thiago@novatela.com.br">
     <meta name="robots" content="index, follow"> 
-    <link rel="shortcut icon" href="~/Content/img/ico/favicon.png">
+    <link rel="shortcut icon" href="/Content/img/ico/favicon.png">
     <title>Estudante Web Blog</title>
     <!-- Bootstrap Core CSS -->
-    <link href="~/Content/css/bootstrap.css" rel="stylesheet">
+    <link href="/Content/css/bootstrap.css" rel="stylesheet">
     <!-- Custom CSS -->
-    <link href="~/Content/css/clean-blog.min.css" rel="stylesheet">
+    <link href="/Content/css/clean-blog.min.css" rel="stylesheet">
     <!-- Custom Fonts -->
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
@@ -29,11 +29,12 @@
 </head>
 <body>
     <!-- jQuery -->
-    <script src="~/Scripts/jquery.js"></script>
+    <script src="/Scripts/jquery.js"></script>
     <!-- Bootstrap Core JavaScript -->
-    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/bootstrap.min.js"></script>
     <!-- Custom Theme JavaScript -->
-    <script src="~/Scripts/clean-blog.min.js"></script>
+    @*<script src="/Scripts/clean-blog.min.js"></script>*@
+    <script src="/Scripts/clean-blog.js"></script>
     @Html.Partial("_MenuSuperior")
         @RenderBody()
     @Html.Partial("_Rodape")

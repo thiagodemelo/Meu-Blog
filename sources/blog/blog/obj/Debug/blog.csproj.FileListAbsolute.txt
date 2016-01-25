@@ -126,4 +126,3 @@ C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\Microsoft.VisualS
 C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\Microsoft.VisualStudio.TextManager.Interop.dll
 C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\Microsoft.VisualStudio.OLE.Interop.xml
 C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\Microsoft.VisualStudio.TextManager.Interop.xml
-C:\Users\thiag\Documents\GitHub\Meu-Blog\sources\blog\blog\bin\MySql.Data.dll
