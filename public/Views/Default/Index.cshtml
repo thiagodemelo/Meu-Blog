@@ -23,22 +23,22 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                @*@foreach (var post in ViewBag.listaPost)
-                {
-                    <div class="post-preview">
-                        <a href="post.html">
-                            <h2 class="post-title">
-                              @post.titulo
-                            </h2>
-                            <h3 class="post-subtitle">
-                               @post.subtitulo
-                            </h3>
-                        </a>
-                        <p class="post-meta">Postado por <a href="#">@post.autor</a> @post.data</p>
-                    </div>
-                }*@
+                @foreach (var post in ViewBag.listaPost)
+    {
+        <div class="post-preview">
+            <a href="@Url.Action("Index", "Post", new { id = post.id })">
+                <h2 class="post-title">
+                  @post.titulo
+                </h2>
+                <h3 class="post-subtitle">
+                   @post.subtitulo
+                </h3>
+            </a>
+            <p class="post-meta">Postado por <a href="#">@post.autor</a> em @post.data.ToString("dd'.'MM'.'yyyy")</p>
+        </div>
+    }
 
-                <div class="post-preview">
+                @*<div class="post-preview">
                     <a href="#">
                         <h2 class="post-title">
                             PAGINA EM CONSTRUÇÃO
@@ -47,8 +47,8 @@
                             Em breve teremos bastante conteúdo.
                         </h3>
                     </a>
-                    <p class="post-meta">Postado por <a href="thiagodesenv.com.br">Thiago de Melo Lima</a> em 18 de Janeiro de 2016</p>
-                </div>
+                    <p class="post-meta">Postado por <a target="_blank" href="thiagodesenv.com.br">Thiago de Melo Lima</a> em 18 de Janeiro de 2016</p>
+                </div>*@
                 @*<hr>
     <div class="post-preview">
         <a href="post.html">

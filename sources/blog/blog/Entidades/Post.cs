@@ -12,6 +12,8 @@ namespace blog.Entidades
         public int id { set; get; }
         public String titulo { set; get; }
         public String subtitulo { set; get; }
+        public String caminhoImg { get; set; }
+        public String texto { get; set; }
         public String autor { set; get; }
         public DateTime data  { set; get; }
     }

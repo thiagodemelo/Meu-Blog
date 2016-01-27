@@ -16,10 +16,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/25/2016 14:40:23</publishTime>
     </File>
     <File Include="bin/blog.dll">
-      <publishTime>01/25/2016 18:01:57</publishTime>
+      <publishTime>01/27/2016 19:05:22</publishTime>
     </File>
     <File Include="bin/blog.pdb">
-      <publishTime>01/25/2016 18:01:57</publishTime>
+      <publishTime>01/27/2016 19:05:22</publishTime>
     </File>
     <File Include="bin/EntityFramework.dll">
       <publishTime>01/23/2016 14:07:33</publishTime>
@@ -238,10 +238,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/25/2016 17:30:06</publishTime>
     </File>
     <File Include="Views/Default/Index.cshtml">
-      <publishTime>01/20/2016 15:21:24</publishTime>
+      <publishTime>01/27/2016 18:55:09</publishTime>
     </File>
     <File Include="Views/Post/Index.cshtml">
-      <publishTime>01/25/2016 14:40:23</publishTime>
+      <publishTime>01/27/2016 19:03:13</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
       <publishTime>01/25/2016 17:45:22</publishTime>
@@ -253,7 +253,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/20/2016 15:21:24</publishTime>
     </File>
     <File Include="Views/Sobre/Index.cshtml">
-      <publishTime>01/25/2016 14:40:23</publishTime>
+      <publishTime>01/27/2016 18:17:48</publishTime>
     </File>
     <File Include="Views/web.config">
       <publishTime>01/20/2016 15:21:24</publishTime>

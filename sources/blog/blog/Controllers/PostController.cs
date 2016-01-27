@@ -11,15 +11,16 @@ namespace blog.Controllers
     {
         private PostDAO dao;
 
-        public PostController(PostDAO dao)
+        public PostController()
         {
-            this.dao = dao;
+            this.dao = new PostDAO();
         }
 
 
         // GET: Post
-        public ActionResult Index()
+        public ActionResult Index(int id)
         {
+            ViewBag.Post = dao.BuscaPorId(id);
             return View();
         }
     }
